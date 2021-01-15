@@ -5,7 +5,7 @@ Creation of graphs and representation of data, in order to give an oral presenta
 
 ## Starting 🚀
 
-The code is written in Python. Download the main file and import it to your computer. If using Google Colab, go to your _Execution environment_ and select _GPU_. 
+The code is written in **Python**. Download the main file and import it to your computer. If using Google Colab, go to your _Execution environment_ and select _GPU_. That will fast execution times.
 
 ## Executing the code ⚙️
 
