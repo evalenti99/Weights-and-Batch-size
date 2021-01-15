@@ -5,11 +5,15 @@ Creation of graphs and representation of data, in order to give an oral presenta
 
 ## Starting 🚀
 
-The code is written in Python. Download the main file and import it to your computer. If using Google Colab, go to your _Execution environment_ and select _GPU_.
+The code is written in Python. Download the main file and import it to your computer. If using Google Colab, go to your _Execution environment_ and select _GPU_. 
 
 ## Executing the code ⚙️
 
-The code just needs to be run and all plots and prints will work. If using Google Colab, it takes approximately 10 minutes to run all cells. 
+The code just needs to be run and all plots and prints will work. If using Google Colab, it takes approximately 10 minutes to run all cells. We will be using the following modules & packages:
+- PyTorch
+- torchvision
+- timeit
+- matplotlib
 
 ## Built with 🛠️
 
