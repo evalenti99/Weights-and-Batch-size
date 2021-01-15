@@ -1,7 +1,7 @@
 # Evaluation of weight initialization and batch size on NN.
 
 Evaluating three different weight initializations and batch sizes on solving MNIST with Neural Networks. 
-Creation of graphs and representation of data, in order to give an oral presentation on Audiovisual Signal Management and Distribution (ESEIAAT, 2020).
+Creation of graphs and representation of data, in order to give an oral presentation on our course in Audiovisual Signal Management and Distribution (ESEIAAT, 2020).
 
 ## Starting 🚀
 
